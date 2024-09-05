@@ -1,0 +1,6 @@
+print("Salknlanl")
+print("Salknlanl")
+print("Salknlanl")
+print("Salknlanl")
+print("Salknlanl")
+print("Salknlanl")
