@@ -11,6 +11,6 @@ for i in name:
 #    m
 
 
-# name=input("Enter your name:-")
-# for i in name:
-#     print(i)
+name=input("Enter your name:-")
+for i in name:
+    print(i)
