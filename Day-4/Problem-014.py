@@ -9,7 +9,7 @@ class Substraction(Additation):
 
 class Multiply(Substraction):
     def mul(self,x,y):
-        print(f"Multiply two number:-{x,y}")
+        print(f"Multiply two number:-{x*y}")
 
 
 obj=Multiply()
