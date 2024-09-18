@@ -25,7 +25,6 @@ class MUL(ADD):
 """That is provide multipy of two number"""
 
 obj=MUL()
-# All program write me 
 print(MUL.mro())
 obj.Addition(12,52)
 obj.Multiply(2,5)

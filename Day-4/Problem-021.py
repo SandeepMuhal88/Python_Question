@@ -28,6 +28,8 @@ obj.Addition(12,52)
 obj.Substract(15,3)
 obj.Devi(12,2)
 obj.Multiply(22,22)
+print("Program will run:--")
+# Make function
 # concept    3
 
 # hybrid = multiple + herichal:
