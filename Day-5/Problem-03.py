@@ -27,11 +27,11 @@
 # writelines()
 
 # Using write method to wirtten data into file
-# with open("xyz.txt",'w') as F:
-#     F.write("My Name Sandeep Muhal.\n")
-#     F.write("I am from Ajmer Rajsathan.\n")
-#     F.write("I am a software Engineering.")
-#     F.write("Current time i am studying at bikaner.")
+with open("xyz.txt",'w') as F:
+    F.write("My Name Sandeep Muhal.\n")
+    F.write("I am from Ajmer Rajsathan.\n")
+    F.write("I am a software Engineering.")
+    F.write("Current time i am studying at bikaner.")
 
 # There before data exit in day.txt then we will run that then data is override 
 # with open("day.txt",'w') as F:

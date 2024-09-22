@@ -1,0 +1,4 @@
+There is denote Week name:-
+Sunday,Monday,Tuesday
+Wednesday,Thrusday.
+Filday Saturday!!
